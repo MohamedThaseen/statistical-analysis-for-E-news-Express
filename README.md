@@ -109,4 +109,4 @@ jupyter notebook Project_Applied_Statistics_E_news_Express.ipynb
 Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels.
 
 ## Author
-<Your Name>
+Mohamed Rifakath Ali A
